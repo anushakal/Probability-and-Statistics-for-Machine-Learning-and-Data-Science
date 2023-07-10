@@ -12,4 +12,4 @@ Here are all the quizzes and notebooks that I solved during this course.
 
 **Week 3:** Sampling and Point Estimation.
 
-**Week 4: ** Confidence intervals and Hypothesis testing.
+**Week 4:** Confidence intervals and Hypothesis testing.
